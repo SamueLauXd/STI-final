@@ -1,0 +1,81 @@
+,name,car,plate,zone,Aire acondicionado,Sonido,Cargar celular,Amabilidad,Velocidad
+1,Mateo García,Chevrolet,ABC - 482,Norte,5,1,2,3,2
+2,Valentina López,Renault,DEF - 719,Sur,5,1,1,2,1
+3,Santiago Rodríguez,Ford,GHI - 563,Occidente,5,2,2,5,1
+4,Isabella Gómez,Toyota,JKL - 126,Oriente,5,2,4,2,2
+5,Juan Camilo Herrera,Nissan,MNO - 894,Norte,4,3,5,4,2
+6,Camila Vargas,Honda,PQS - 357,Oriente,1,2,5,3,1
+7,Andrés Medina,Kia,TUV - 680,Sur,2,2,5,4,2
+8,Manuela Ramírez,Volkswagen,WXY - 245,Occidente,4,1,2,1,3
+9,Nicolás Castro,Hyundai,ZAB - 931,Norte,1,5,4,2,3
+10,Mariana Restrepo,Mazda,CDE - 874,Oriente,3,2,4,3,3
+11,Daniel Zapata,Mercedes-Benz,FGH - 609,Sur,3,5,3,5,3
+12,Valeria Cardona,BMW,IJK - 352,Occidente,4,4,4,5,3
+13,Sebastián Mendoza,Audi,LMN - 718,Norte,5,4,2,4,4
+14,Sofia Torres,Jeep,OPQ - 496,Sur,4,5,3,3,3
+15,Alejandro Salazar,Fiat,RST - 230,Oriente,2,2,2,2,2
+16,Gabriela Moreno,Subaru,UVW - 581,Occidente,3,5,1,4,1
+17,Esteban Valencia,Peugeot,XYZ - 367,Norte,2,3,1,3,1
+18,Laura González,Land Rover,BAC - 954,Sur,1,5,2,3,1
+19,Felipe Duarte,Mitsubishi,DEF - 128,Oriente,1,2,3,5,2
+20,Antonia Gallego,Jaguar,GHI - 765,Occidente,4,3,3,5,2
+21,Rafaela Arango,Suzuki,JKL - 409,Sur,3,1,4,3,3
+22,Emmanuel Ríos,Volvo,MNO - 632,Oriente,2,4,4,2,3
+23,Paula Soto,Mini,PQR - 875,Norte,1,1,2,2,4
+24,Francisco Álvarez,Porsche,STU - 341,Occidente,4,2,2,3,5
+25,Natalia Ochoa,Lexus,VWX - 926,Norte,4,3,2,3,5
+26,Eduardo Pérez,Infiniti,YZA - 574,Oriente,5,2,5,2,5
+27,Isabela Córdoba,Acura,BCD - 183,Occidente,4,1,5,5,5
+28,Miguel Giraldo,Alfa Romeo,EFG - 790,Sur,5,5,5,1,5
+29,Antonella Bedoya,Dodge,HIJ - 245,Norte,4,4,5,3,5
+30,José Torres,Chrysler,KLM - 837,Oriente,4,3,2,2,1
+31,Daniela López,GMC,NOP - 561,Sur,3,2,5,3,1
+32,Juan Pablo Suárez,Buick,QRS - 794,Norte,3,3,2,5,1
+33,Valentina Vélez,Cadillac,TUV - 328,Oriente,4,2,3,4,1
+34,Diego Arango,Ram,WXY - 679,Sur,5,1,5,2,1
+35,Alejandra Muñoz,Tesla,ZAB - 512,Occidente,4,2,5,3,1
+36,Lucas Ramírez,Lincoln,CDE - 487,Norte,4,4,4,4,1
+37,Martina Gutiérrez,Geely,FGH - 630,Sur,3,3,3,3,2
+38,Esteban Ortiz,BYD,IJK - 219,Oriente,4,4,2,3,2
+39,Isabel Cárdenas,Chery,LMN - 854,Occidente,5,3,3,4,3
+40,Santiago Gómez,JAC Motors,OPQ - 796,Norte,4,3,1,1,4
+41,Valeria Agudelo,Zotye,RST - 315,Oriente,3,2,2,2,4
+42,Felipe Jaramillo,Great Wall,UVW - 682,Sur,3,1,4,3,4
+43,Camila García,MG Motor,XYZ - 479,Occidente,4,2,3,4,4
+44,Sebastián Acosta,Dongfeng,BAC - 501,Norte,3,3,4,5,4
+45,Luciana Molina,Haval,DEF - 843,Sur,4,2,3,4,5
+46,Juan David Duque,Brilliance,GHI - 276,Oriente,5,1,2,3,4
+47,Carolina Sánchez,Lifan,JKL - 958,Occidente,3,4,1,2,3
+48,Mateo García,BAIC,MNO - 614,Norte,5,2,5,1,2
+49,Valentina López,FAW,PQR - 352,Sur,5,3,4,3,1
+50,Santiago Rodríguez,Proton,STU - 797,Occidente,3,5,3,2,3
+51,Isabella Gómez,Perodua,VWX - 460,Norte,4,3,2,1,4
+52,Juan Camilo Herrera,Isuzu,YZA - 528,Oriente,3,1,3,1,5
+53,Camila Vargas,Mahindra,BCD - 193,Sur,4,1,3,2,4
+54,Andrés Medina,Tata Motors,EFG - 847,Occidente,5,2,4,2,3
+55,Manuela Ramírez,Maruti Suzuki,HIJ - 610,Norte,4,3,5,1,2
+56,Nicolás Castro,SsangYong,KLM - 385,Sur,3,3,4,2,2
+57,Mariana Restrepo,Daewoo,NOP - 249,Oriente,5,3,3,5,2
+58,Daniel Zapata,Genesis,QRS - 736,Occidente,4,4,4,2,2
+59,Valeria Cardona,BYD,TUV - 502,Norte,5,4,1,5,2
+60,Sebastián Mendoza,Aro,WXY - 971,Oriente,3,4,1,4,1
+61,Sofia Torres,Lada,ZAB - 684,Sur,4,4,1,3,2
+62,Alejandro Salazar,ZAZ,CDE - 359,Norte,5,3,1,3,3
+63,Gabriela Moreno,Moskvitch,FGH - 817,Occidente,3,2,1,1,4
+64,Esteban Valencia,Wuling,IJK - 246,Oriente,5,1,4,2,5
+65,Laura González,Luxgen,LMN - 593,Sur,4,2,2,2,4
+66,Felipe Duarte,Changhe,OPQ - 428,Occidente,5,1,3,3,3
+67,Antonia Gallego,Foton,RST - 761,Norte,3,2,4,5,2
+68,Rafaela Arango,JMC,UVW - 395,Oriente,3,3,4,3,1
+69,Emmanuel Ríos,Kenbo,XYZ - 182,Sur,5,4,5,4,1
+70,Paula Soto,Riich,BAC - 674,Occidente,4,3,5,4,2
+71,Francisco Álvarez,Hawtai,DEF - 539,Norte,5,1,4,3,3
+72,Natalia Ochoa,FAW Hongqi,GHI - 810,Sur,4,4,3,1,4
+73,Eduardo Pérez,JAC Refine,JKL - 157,Oriente,5,1,3,2,5
+74,Isabela Córdoba,Roewe,MNO - 648,Occidente,5,2,3,4,5
+75,Miguel Giraldo,MG (Morris Garages),PQR - 394,Norte,4,2,5,3,5
+76,Antonella Bedoya,Qoros,STU - 725,Oriente,4,5,5,1,5
+77,José Torres,Zotye,VWX - 861,Sur,5,2,5,2,5
+78,Daniela López,Changan,YZA - 506,Occidente,4,4,3,2,5
+79,Juan Pablo Suárez,NIO,BCD - 239,Norte,5,3,2,5,5
+80,Valentina Vélez,Xpeng,EFG - 943,Oriente,4,1,1,4,1
